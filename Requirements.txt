@@ -1,0 +1,4 @@
+easyocr
+pandas
+mysql-connector-python
+streamlit
