@@ -43,12 +43,10 @@ The goal is to create a user-friendly interface for users to upload business car
    - Display the updated information.
 
 ## Install required Modules and Libraries
-I have included Requirements.txt file. To install the required modules and libraries at once:
 
-Download the file and save in your project directory.
+I have included Requirements.txt file. To install the required modules and libraries at once:  
+  -  Download the file and save in your project directory.
+  -  using command prompt navigate to project directory.
+  -  Run the following command to install all the packages listed in the Requirements.txt file using pip:
 
-using command prompt navigate to project directory.
-
-Run the following command to install all the packages listed in the Requirements.txt file using pip:
-
-pip install -r Requirements.txt
+     pip install -r Requirements.txt
